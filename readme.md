@@ -12,6 +12,4 @@ click on new registration, a form will come fill the form and put the homeurl an
 
 Now you can get the clientId and SecreteId, add in application. yml file.
 
-For more refrenece visit- https://www.youtube.com/watch?v=D2FuRIL95kk&t=782s
-
 At last You hit the url- htttp://localhost/8902/ in any browser, you get that service
